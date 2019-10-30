@@ -1,0 +1,122 @@
+2019-10-29: The folder containing the SAM, Security, Software, and System hives is /mnt/d/Windows/System32/config/
+2019-10-29: The categories selected are: os users software network storage execution autoruns log web user_config user_act user_network user_file user_virtual comm
+---- Processing the os category
+Launching winnt_cv v.20080609
+Launching producttype v.20100325
+Launching win_cv v.20090312
+Microsoft\Windows\CurrentVersion not found.
+Launching timezone v.20110901
+Launching shutdown v.20110830
+Launching shutdowncount v.20080709
+ControlSet001\Control\Watchdog\Display not found.
+Launching polacdms v.20100531
+Launching winlogon v.20100219
+/opt/regripper/plugins/uac.pl not found.
+/opt/regripper/plugins/disablesr.pl not found.
+/opt/regripper/plugins/diag_sr.pl not found.
+/opt/regripper/plugins/spp_clients.pl not found.
+/opt/regripper/plugins/backuprestore.pl not found.
+/opt/regripper/plugins/winbackup.pl not found.
+Launching bitbucket v.20080418
+Microsoft\Windows\CurrentVersion\Explorer\BitBucket not found.
+Launching disablelastaccess v.20090118
+/opt/regripper/plugins/dfrg.pl not found.
+Launching secctr v.20100310
+Launching pagefile v.20081212
+Launching hibernate v.20081216
+Launching crashcontrol v.20081212
+Launching regback v.20100219
+Launching ctrlpnl v.20100116
+Launching banner v.20081119
+Launching nolmhash v.20100712
+---- Processing the users category
+Launching samparse v.20110901
+Launching profilelist v.20100219
+---- Processing the software category
+Launching uninstall v.20100116
+Launching apppaths v.20080404
+Launching assoc v.20080815
+Launching installedcomp v.20100116
+Launching msis v.20090911
+Launching product v.20100325
+/opt/regripper/plugins/installer.pl not found.
+Launching clsid v.20100227
+---- Processing the network category
+Launching compname v.20090727
+Launching networkcards v.20080325
+Launching nic v.20100401
+Launching nic2 v.20100401
+Launching macaddr v.20090118
+Launching shares v.20090112
+Launching fw_config v.20080328
+Launching routes v.20100817
+Launching networklist v.20090811
+Launching ssid v.20100301
+Launching networkuid v.20100312
+Microsoft\Windows NT\CurrentVersion\Network not found.
+Launching network v.20080324
+Launching termserv v.20100713
+/opt/regripper/plugins/termcert.pl not found.
+Launching rdpport v.20100713
+Launching sql_lastconnect v.20090112
+---- Processing the storage category
+Launching mountdev2 v.20080324
+Launching ide v.20080418
+Launching usbdevices v.20100219
+Launching usbstor v.20080418
+Launching devclass v.20100901
+/opt/regripper/plugins/emdmgmt.pl not found.
+/opt/regripper/plugins/wpdbusenum.pl not found.
+/opt/regripper/plugins/bthport.pl not found.
+/opt/regripper/plugins/btconfig.pl not found.
+Launching imagedev v.20080730
+Launching stillimage v.20100222
+---- Processing the execution category
+/opt/regripper/plugins/prefetch.pl not found.
+/opt/regripper/plugins/appcompatcache.pl not found.
+Launching legacy v.20090429
+/opt/regripper/plugins/tracing.pl not found.
+/opt/regripper/plugins/direct.pl not found.
+---- Processing the autoruns category
+Launching soft_run v.20080328
+Launching services v.20080507
+Launching svc v.20080610
+Launching svcdll v.20091104
+Launching userinit v.20080328
+Launching appinitdlls v.20080324
+Launching init_dlls v.20110309
+Launching bho v.20080418
+Launching installedcomp v.20100116
+Launching imagefile v.20100824
+Launching winlogon v.20100219
+Launching svchost v.20100322
+/opt/regripper/plugins/drivers32.pl not found.
+Launching cmd_shell v.20100830
+Classes\csfile\shell\open\command not found.
+Launching shellexec v.20081229
+Launching shellext v.20100515
+Launching schedagent v.20100817
+/opt/regripper/plugins/appcertdlls.pl not found.
+/opt/regripper/plugins/lsa_packages.pl not found.
+Launching safeboot v.20081216
+Launching dllsearch v.20100824
+/opt/regripper/plugins/securityproviders.pl not found.
+---- Processing the log category
+Launching mrt v.20080804
+Launching auditpol v.20080327
+Launching eventlog v.20090112
+Launching eventlogs v.20110830
+Launching auditfail v.20081212
+Launching drwatson v.20081219
+Microsoft\DrWatson not found.
+---- Processing the web category
+Launching defbrowser v.20091116
+Launching startmenuinternetapps_lm.20101219
+Launching ie_version v.20091016
+/opt/regripper/plugins/javasoft.pl not found.
+---- Processing the user_config category
+---- Processing the user_act category
+---- Processing the user_network category
+---- Processing the user_file category
+---- Processing the user_virtual category
+---- Processing the comm category

@@ -1,0 +1,177 @@
+=========================================================================================================
+Logging Information
+=========================================================================================================
+
+mrt v.20080804
+(Software) Check to see if Malicious Software Removal Tool has been run
+
+Key Path: Microsoft\RemovalTools\MRT
+LastWrite Time Wed Mar 25 10:17:57 2015 (UTC)
+
+Error getting Version information: Can't call method "get_data" on an undefined value at /opt/regripper/plugins/mrt.pl line 59.
+
+...........................................................................................................
+.
+auditpol v.20080327
+(Security) Get audit policy from the Security hive file
+
+auditpol
+Policy\PolAdtEv
+LastWrite Time Tue Jul 14 04:45:41 2009 (UTC)
+
+**Auditing is NOT enabled.
+...........................................................................................................
+.
+eventlog v.20090112
+(System) Get EventLog configuration info
+
+
+Application \ Wed Mar 25 14:54:29 2015Z
+  File               = %SystemRoot%\system32\winevt\Logs\Application.evtx
+  DisplayNameFile    = %SystemRoot%\system32\wevtapi.dll
+  MaxSize            = 20.00MB
+  Retention          = 0 sec
+
+HardwareEvents \ Tue Jul 14 04:49:01 2009Z
+  File               = %systemroot%\system32\winevt\logs\HardwareEvents.evtx
+  DisplayNameFile    = %SystemRoot%\system32\wecsvc.dll
+  MaxSize            = 20.00MB
+  Retention          = 0 sec
+
+Internet Explorer \ Tue Jul 14 04:49:01 2009Z
+
+Key Management Service \ Tue Jul 14 04:49:01 2009Z
+  MaxSize            = 20.00MB
+  Retention          = 0 sec
+
+Media Center \ Sun Nov 21 07:17:00 2010Z
+  File               = %SystemRoot%\System32\winevt\Logs\Media Center.evtx
+  MaxSize            = 8.00MB
+  Retention          = 0 sec
+
+OAlerts \ Sun Mar 22 15:03:49 2015Z
+  DisplayNameFile    = C:\PROGRA~1\COMMON~1\MICROS~1\OFFICE15\OFFREL.DLL
+  MaxSize            = 128.00KB
+  Retention          = 0 sec
+
+Security \ Wed Mar 25 14:51:35 2015Z
+  File               = %SystemRoot%\System32\winevt\Logs\Security.evtx
+  DisplayNameFile    = %SystemRoot%\system32\wevtapi.dll
+  MaxSize            = 20.00MB
+  Retention          = 0 sec
+
+System \ Wed Mar 25 14:51:35 2015Z
+  File               = %SystemRoot%\system32\winevt\Logs\System.evtx
+  DisplayNameFile    = %SystemRoot%\system32\wevtapi.dll
+  MaxSize            = 20.00MB
+  Retention          = 0 sec
+
+Windows PowerShell \ Tue Jul 14 04:49:01 2009Z
+  MaxSize            = 15.00MB
+  Retention          = 0 sec
+  AutoBackupLogFiles = 0
+
+...........................................................................................................
+.
+eventlogs v.20110830
+(System) Gets Event Log settings from System hive
+
+EventLog Configuration
+ControlSet001\Services\Eventlog
+LastWrite Time Sun Mar 22 15:03:49 2015 (UTC)
+ComputerName value not found.
+
+	Application EventLog
+	ControlSet001\Services\Eventlog\Application
+	LastWrite Time Wed Mar 25 14:54:29 2015 (UTC)
+	Configuration Settings
+		Log location: %SystemRoot%\system32\winevt\Logs\Application.evtx
+		Log Size: 20971520 Bytes
+		AutoBackupLogFiles is Disabled
+
+	HardwareEvents EventLog
+	ControlSet001\Services\Eventlog\HardwareEvents
+	LastWrite Time Tue Jul 14 04:49:01 2009 (UTC)
+	Configuration Settings
+		Log location: %systemroot%\system32\winevt\logs\HardwareEvents.evtx
+		Log Size: 20971520 Bytes
+		AutoBackupLogFiles is Disabled
+
+	Internet Explorer EventLog
+	ControlSet001\Services\Eventlog\Internet Explorer
+	LastWrite Time Tue Jul 14 04:49:01 2009 (UTC)
+	Configuration Settings
+		Log location: n/a (missing 'File' value)
+		Log Size: n/a (missing 'MaxSize' value)
+		AutoBackupLogFiles is Disabled
+
+	Key Management Service EventLog
+	ControlSet001\Services\Eventlog\Key Management Service
+	LastWrite Time Tue Jul 14 04:49:01 2009 (UTC)
+	Configuration Settings
+		Log location: n/a (missing 'File' value)
+		Log Size: 20971520 Bytes
+		AutoBackupLogFiles is Disabled
+
+	Media Center EventLog
+	ControlSet001\Services\Eventlog\Media Center
+	LastWrite Time Sun Nov 21 07:17:00 2010 (UTC)
+	Configuration Settings
+		Log location: %SystemRoot%\System32\winevt\Logs\Media Center.evtx
+		Log Size: 8388608 Bytes
+		AutoBackupLogFiles is Disabled
+
+	OAlerts EventLog
+	ControlSet001\Services\Eventlog\OAlerts
+	LastWrite Time Sun Mar 22 15:03:49 2015 (UTC)
+	Configuration Settings
+		Log location: n/a (missing 'File' value)
+		Log Size: 131072 Bytes
+		AutoBackupLogFiles is Disabled
+
+	Security EventLog
+	ControlSet001\Services\Eventlog\Security
+	LastWrite Time Wed Mar 25 14:51:35 2015 (UTC)
+	Configuration Settings
+		Log location: %SystemRoot%\System32\winevt\Logs\Security.evtx
+		Log Size: 20971520 Bytes
+		AutoBackupLogFiles is Disabled
+
+	System EventLog
+	ControlSet001\Services\Eventlog\System
+	LastWrite Time Wed Mar 25 14:51:35 2015 (UTC)
+	Configuration Settings
+		Log location: %SystemRoot%\system32\winevt\Logs\System.evtx
+		Log Size: 20971520 Bytes
+		AutoBackupLogFiles is Disabled
+
+	Windows PowerShell EventLog
+	ControlSet001\Services\Eventlog\Windows PowerShell
+	LastWrite Time Tue Jul 14 04:49:01 2009 (UTC)
+	Configuration Settings
+		Log location: n/a (missing 'File' value)
+		Log Size: 15728640 Bytes
+		AutoBackupLogFiles is Enabled
+
+Analysis Tips: For Event Log settings information check: http://msdn.microsoft.com/en-us/library/aa363648(VS.85).aspx
+...........................................................................................................
+.
+auditfail v.20081212
+(System) Get CrashOnAuditFail value
+
+CrashOnAuditFail = 0
+Feature is off; the system will not halt
+...........................................................................................................
+.
+domains v.20081219
+(Software) Gets Dr. Watson settings from Software hive
+
+Microsoft\Windows NT\CurrentVersion\AeDebug
+LastWrite Time Tue Jul 14 04:53:25 2009 (UTC)
+Debugging is Disabled
+
+Microsoft\DrWatson not found.
+
+Analysis Tips: For Dr. Watson settings information check: http://www.windowsnetworking.com/kbase/WindowsTips/Windows2000/RegistryTips/RegistryTools/DrWatson.html
+...........................................................................................................
+.

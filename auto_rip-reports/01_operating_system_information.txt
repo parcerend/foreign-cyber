@@ -1,0 +1,537 @@
+=========================================================================================================
+General Information about the Operating System and Its Configuration
+=========================================================================================================
+
+winnt_cv v.20080609
+(Software) Get & display the contents of the Windows NT\CurrentVersion key
+
+WinNT_CV
+Microsoft\Windows NT\CurrentVersion
+LastWrite Time Sun Mar 22 15:21:53 2015 (UTC)
+
+  RegisteredOrganization : 
+  CurrentVersion : 6.1
+  CurrentBuild : 7601
+  CurrentBuildNumber : 7601
+  CSDBuildNumber : 1130
+  SoftwareType : System
+  InstallationType : Client
+  EditionID : Ultimate
+  RegisteredOwner : informant
+  SystemRoot : C:\Windows
+  PathName : C:\Windows
+  CSDVersion : Service Pack 1
+  ProductName : Windows 7 Ultimate
+  CurrentType : Multiprocessor Free
+  ProductId : 00426-292-0000007-85262
+  BuildLab : 7601.win7sp1_gdr.130828-1532
+  InstallDate : Sun Mar 22 14:34:26 2015 (UTC)
+  BuildGUID : cef1a179-8b62-4cee-a99f-1c96c94a8e4d
+  BuildLabEx : 7601.18247.amd64fre.win7sp1_gdr.130828-1532
+  DigitalProductId : a4 00 00 00 03 00 00 00 30 30 34 32 36 2d 32 39 32 2d 30 30 30 30 30 30 37 2d 38 35 32 36 32 00 aa 00 00 00 58 31 35 2d 33 39 36 34 34 00 00 00 00 00 00 00 cd 50 c7 8f 86 09 0f 1d 8e 7c b3 a3 03 b8 00 00 00 00 00 00 f0 28 12 55 76 4e bd 5c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 05 d6 1c 
+  DigitalProductId4 : f8 04 00 00 04 00 00 00 30 00 30 00 34 00 32 00 36 00 2d 00 30 00 30 00 31 00 37 00 30 00 2d 00 32 00 39 00 32 00 2d 00 30 00 30 00 30 00 30 00 30 00 30 00 2d 00 30 00 30 00 2d 00 31 00 30 00 33 00 33 00 2d 00 37 00 36 00 30 00 31 00 2e 00 30 00 30 00 30 00 30 00 2d 00 30 00 38 00 34 00 32 00 30 00 31 00 35 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 00 63 00 39 00 36 00 65 00 31 00 61 00 38 00 2d 00 36 00 63 00 63 00 34 00 2d 00 34 00 33 00 31 00 30 00 2d 00 61 00 34 00 66 00 66 00 2d 00 33 00 33 00 32 00 63 00 65 00 37 00 37 00 66 00 62 00 35 00 62 00 38 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 55 00 6c 00 74 00 69 00 6d 00 61 00 74 00 65 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 cd 50 c7 8f 86 09 0f 1d 8e 7c b3 a3 03 b8 00 00 03 b2 3e 76 14 eb 81 1b 11 04 9e 04 a6 5a 8f bd 40 52 cd dc 0d d8 d7 49 45 45 1f 10 55 35 a5 9b b1 f0 c8 1d af 71 43 b6 98 a8 b2 de 72 63 da 66 ee 2f e4 38 c7 dd 04 cb d5 a0 19 b9 69 fc 4f b4 58 00 31 00 35 00 2d 00 33 00 39 00 36 00 34 00 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 52 00 65 00 74 00 61 00 69 00 6c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 52 00 65 00 74 00 61 00 69 00 6c 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+...........................................................................................................
+.
+producttype v.20100325
+(System) Queries System hive for Windows Product info
+
+ControlSet001\Control\ProductOptions
+LastWrite = Sun Mar 22 15:45:22 2015
+
+Ref: http://support.microsoft.com/kb/152078
+     http://support.microsoft.com/kb/181412
+
+ProductType  = WinNT
+Ref: http://technet.microsoft.com/en-us/library/cc782360%28WS.10%29.aspx
+WinNT indicates a workstation.
+ServerNT indicates a standalone server.
+LanmanNT indicates a domain controller (pri/backup).
+
+ProductSuite = Terminal Server
+Ref: http://technet.microsoft.com/en-us/library/cc784364%28WS.10%29.aspx
+...........................................................................................................
+.
+win_cv v.20090312
+(Software) Get & display the contents of the Windows\CurrentVersion key
+
+Microsoft\Windows\CurrentVersion not found.
+...........................................................................................................
+.
+timezone v.20110901
+(System) Get TimeZoneInformation key contents
+
+TimeZoneInformation key
+ControlSet001\Control\TimeZoneInformation
+LastWrite Time Wed Mar 25 10:34:25 2015 (UTC)
+  DaylightName    -> @tzres.dll,-111
+  StandardName    -> @tzres.dll,-112
+  Bias            -> 240 (5 hours)
+  ActiveTimeBias  -> 300 (4 hours)
+  TimeZoneKeyName -> Eastern Standard Time
+...........................................................................................................
+.
+shutdown v.20110830
+(System) Gets ShutdownTime value from System hive
+
+ControlSet001\Control\Windows key, ShutdownTime value
+ControlSet001\Control\Windows
+LastWrite Time Wed Mar 25 15:31:05 2015 (UTC)
+  ShutdownTime = Wed Mar 25 15:31:05 2015 (UTC)
+...........................................................................................................
+.
+shutdowncount v.20080709
+(System) Retrieves ShutDownCount value
+
+ControlSet001\Control\Watchdog\Display not found.
+...........................................................................................................
+.
+polacdms v.20100531
+(Security) Get local machine SID from Security hive
+
+PolAcDmS
+Policy\PolAcDmS
+LastWrite Time Wed Mar 25 10:15:19 2015 (UTC)
+
+Machine SID: S-1-5-21-2425377081-3129163575-2985601102
+
+PolPrDmS
+Policy\PolPrDmS
+LastWrite Time Tue Jul 14 04:45:54 2009 (UTC)
+
+Primary Domain SID: S-1-5-
+...........................................................................................................
+.
+winlogon v.20100219
+(Software) Get values from the WinLogon key
+
+Microsoft\Windows NT\CurrentVersion\Winlogon
+LastWrite Time Wed Mar 25 13:05:43 2015 (UTC)
+  LegalNoticeCaption = 
+  LegalNoticeText = 
+  ReportBootOk = 1
+  AutoRestartShell = 1
+  ForceUnlockLogon = 0
+  PasswordExpiryWarning = 5
+  PowerdownAfterShutdown = 0
+  ShutdownWithoutLogon = 0
+  WinStationsDisabled = 0
+  DisableCAD = 1
+  scremoveoption = 0
+  AutoAdminLogon = 0
+  CachedLogonsCount = 10
+  DebugServerCommand = no
+  ShutdownFlags = 43
+  Background = 0 0 0
+  DefaultUserName = informant
+  Shell = explorer.exe
+  Userinit = C:\Windows\system32\userinit.exe,
+  PreCreateKnownFolders = {A520A1A4-1780-4FF6-BD18-167343C5AF16}
+  VMApplet = SystemPropertiesPerformance.exe /pagefile
+
+Analysis Tips: The UserInit and Shell values are executed when a user logs on.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+bitbucket v.20080418
+(Software) Get HKLM\..\BitBucket keys\values
+
+Microsoft\Windows\CurrentVersion\Explorer\BitBucket not found.
+...........................................................................................................
+.
+disablelastaccess v.20090118
+(System) Get NTFSDisableLastAccessUpdate value
+
+NtfsDisableLastAccessUpdate
+ControlSet001\Control\FileSystem
+NtfsDisableLastAccessUpdate = 1
+...........................................................................................................
+.
+...........................................................................................................
+.
+secctr v.20100310
+(Software) Get data from Security Center key
+
+secctr
+
+
+Microsoft\Security Center
+LastWrite Time Wed Mar 25 15:31:00 2015 (UTC)
+
+cval                      0x00
+...........................................................................................................
+.
+pagefile v.20081212
+(System) Get info on pagefile(s)
+
+PagingFiles = ?:\pagefile.sys
+ClearPageFileAtShutdown = 0
+...........................................................................................................
+.
+hibernate v.20081216
+(System) Check hibernation status
+
+Error reading Heuristics value.
+...........................................................................................................
+.
+crashcontrol v.20081212
+(System) Get crash control information
+
+CrashDumpEnabled = 2 [Kernel memory dump]
+DumpFile         = %SystemRoot%\MEMORY.DMP
+MinidumpDir      = %SystemRoot%\Minidump
+LogEvent         = 1
+  Logs an event to the System Event Log (event ID = 1001, source = Save Dump)
+...........................................................................................................
+.
+regback v.20100219
+(Software) List all tasks along with logfile name and last written date/time
+
+regidle
+Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\Registry\RegIdleBackup
+LastWrite: Tue Jul 14 04:54:36 2009
+
+Id           {CA4B8FF2-A4D2-4D88-A52E-3A5BDAF7F56E}
+Index        3                   
+Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks
+LastWrite Time Wed Mar 25 15:18:36 2015 (UTC)
+
+Path      	: \Microsoft\Windows\Media Center\PvrRecoveryTask
+Dynamicinfo  	: {03DAD349-F436-474E-AAC5-F900CBFF54D1}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\Time Synchronization\SynchronizeTime
+Dynamicinfo  	: {044A6734-E90E-4F8F-B357-B2DC8AB3B5EC}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Tcpip\IpAddressConflict1
+Dynamicinfo  	: {088482FA-65B8-4E17-9ABF-1DCD48E8D373}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Tcpip\IpAddressConflict2
+Dynamicinfo  	: {09F06BFE-A3C8-40E3-846A-6E6F4000C238}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\OCURActivate
+Dynamicinfo  	: {0CFE84CD-FA18-4E41-998D-3A1286EA0183}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \GoogleUpdateTaskMachineCore
+Dynamicinfo  	: {128F2D0D-6EF3-4D9C-8C8F-A962D35920CD}
+LastWrite : Wed Mar 25 15:16:01 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\ReindexSearchRoot
+Dynamicinfo  	: {182D5B35-374B-4421-B664-B7BFC847E989}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\ConfigureInternetTimeService
+Dynamicinfo  	: {1E8B1FC4-15D2-4951-91EF-0E661FBC3F33}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Task Manager\Interactive
+Dynamicinfo  	: {1F7B7221-AE8F-44F3-BA82-F7D260F51964}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Multimedia\SystemSoundsService
+Dynamicinfo  	: {2470470F-2634-478E-B181-571E98A789BB}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual)
+Dynamicinfo  	: {28011108-68DF-4C73-B91B-57427D501BBA}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\SideShow\SystemDataProviders
+Dynamicinfo  	: {29307F94-D69B-4958-856C-2B2CE5D9035D}
+LastWrite : Sun Mar 22 14:35:13 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\PBDADiscoveryW2
+Dynamicinfo  	: {2A28191F-C0FC-48CC-8225-141D2D5FF559}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\ActivateWindowsSearch
+Dynamicinfo  	: {2E0E6283-4A33-4966-B842-87D29D2BAC19}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\WindowsBackup\ConfigNotification
+Dynamicinfo  	: {2F57269B-1E09-4E2D-AB1E-B0FDAC7D279C}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\mcupdate
+Dynamicinfo  	: {3B6ADDBC-091D-4C63-AE3D-87CEDE6DA604}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+Dynamicinfo  	: {47536D45-EEEC-4BDC-8183-A4DC1F8DA9E4}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Shell\WindowsParentalControlsMigration
+Dynamicinfo  	: {486D715E-6AA2-44CF-BC48-B6990CBB53C6}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\TextServicesFramework\MsCtfMonitor
+Dynamicinfo  	: {4C8B01A2-11FF-4C41-848F-508EF4F00CF7}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver
+Dynamicinfo  	: {550A0E6A-E8F3-4D56-BB98-71C84CF21052}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\DispatchRecoveryTasks
+Dynamicinfo  	: {588061F6-4569-4A47-BA42-4409B6555873}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\UPnP\UPnPHostConfig
+Dynamicinfo  	: {5A40E926-9E86-4B89-9CFD-B12311724371}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Shell\WindowsParentalControls
+Dynamicinfo  	: {5B42DD9C-5A26-4F27-BB95-34603F0997E5}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Defrag\ScheduledDefrag
+Dynamicinfo  	: {5C0AEEEA-C154-45BE-8499-BEA5F11BAFF6}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\CertificateServicesClient\SystemTask
+Dynamicinfo  	: {5F5A18EB-DC73-4E45-A11C-B59043598412}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated)
+Dynamicinfo  	: {613612BA-897D-44CE-8DC1-8FC283F9FD51}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\MediaCenterRecoveryTask
+Dynamicinfo  	: {671D2391-086D-4B00-92BF-B32CB26402C3}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\User Profile Service\HiveUploadTask
+Dynamicinfo  	: {6738BA6E-EA75-4B6B-B8B8-71F0336DD8EF}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+Dynamicinfo  	: {72DB7465-BC54-491B-A92A-4637A28C9BBF}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Windows Media Sharing\UpdateLibrary
+Dynamicinfo  	: {753C47AE-EC5E-44B3-95A9-2C8E553F0E39}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Offline Files\Logon Synchronization
+Dynamicinfo  	: {7989FB0C-84A8-4047-B307-A45490D9A81B}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\CertificateServicesClient\UserTask
+Dynamicinfo  	: {7AFCC0CA-7121-422A-AB45-B0E8D599FF08}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\ObjectStoreRecoveryTask
+Dynamicinfo  	: {7FF05119-595B-4F9F-B306-CBE5D81AD7CA}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\NetTrace\GatherNetworkInfo
+Dynamicinfo  	: {81540B9F-B5BF-47EB-9C95-BE195BF2C664}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\PBDADiscovery
+Dynamicinfo  	: {82D454A9-8A98-4ACB-BED9-1842502BB578}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Office\OfficeTelemetryAgentLogOn
+Dynamicinfo  	: {82EBCA07-6163-4C7B-AADC-2ECE72A21C1E}
+LastWrite : Wed Mar 25 13:06:09 2015 (UTC)
+Path      	: \Microsoft\Windows\SideShow\GadgetManager
+Dynamicinfo  	: {8473A634-E312-4BB8-B774-27FE755C86F0}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\SideShow\SessionAgent
+Dynamicinfo  	: {913F438F-11F6-4AFA-A686-4DDF9E734717}
+LastWrite : Sun Mar 22 14:34:58 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\RegisterSearch
+Dynamicinfo  	: {931DAA76-E96D-4C96-9348-42EFE81FAEDB}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\WDI\ResolutionHost
+Dynamicinfo  	: {9435F817-FED2-454E-88CD-7F78FDA62C48}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\SystemRestore\SR
+Dynamicinfo  	: {994C86AD-A929-4B2C-88A0-4E25A107A029}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+Dynamicinfo  	: {9979CB83-103A-4105-9E5D-C74B0AF6D198}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+Dynamicinfo  	: {9D97341A-55F9-4EBD-BE95-0BA5197C8C64}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\Offline Files\Background Synchronization
+Dynamicinfo  	: {9FA77CEB-6566-446D-B6B5-AAF05D500860}
+LastWrite : Wed Mar 25 10:33:15 2015 (UTC)
+Path      	: \Microsoft\Windows\WindowsColorSystem\Calibration Loader
+Dynamicinfo  	: {A35BB7A6-5F0C-4C9F-8450-2B3BED532D51}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\AppID\PolicyConverter
+Dynamicinfo  	: {A48CABBF-24C8-4B87-B00F-9261807C3B43}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\ehDRMInit
+Dynamicinfo  	: {A630B297-9E69-4734-BF87-B1A44847279A}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Location\Notifications
+Dynamicinfo  	: {A6AF9377-77CE-47AB-AD7D-EC32CAD0C82D}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Application Experience\ProgramDataUpdater
+Dynamicinfo  	: {A7C73732-9F11-4281-8D19-764D4EC9D94D}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Application Experience\AitAgent
+Dynamicinfo  	: {AC4E5ACF-89F7-4220-BA21-81EE183975E2}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Ras\MobilityManager
+Dynamicinfo  	: {AC668097-4D6B-4093-AC14-014C09DBF820}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Wininet\CacheTask
+Dynamicinfo  	: {AE197155-182A-41E7-B76F-0298240C2F51}
+LastWrite : Sun Mar 22 15:23:28 2015 (UTC)
+Path      	: \Microsoft\Windows\PerfTrack\BackgroundConfigSurveyor
+Dynamicinfo  	: {B0CBAB43-44FC-469B-A4CE-87426761FDCE}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft Office 15 Sync Maintenance for informant-PC-informant informant-PC
+Dynamicinfo  	: {B68841E0-4E9C-44FA-90C1-416541ECFB08}
+LastWrite : Wed Mar 25 13:17:14 2015 (UTC)
+Path      	: \OfficeSoftwareProtectionPlatform\SvcRestartTask
+Dynamicinfo  	: {B81CA03D-F43B-4089-AEFB-4A5ECB5274C1}
+LastWrite : Sun Mar 22 15:04:13 2015 (UTC)
+Path      	: \Microsoft\Windows\Diagnosis\Scheduled
+Dynamicinfo  	: {BE669C13-8165-4536-96D0-6D6C39292AAE}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+Dynamicinfo  	: {C016366B-7126-46CA-B36B-592A3D95A60B}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\SideShow\AutoWake
+Dynamicinfo  	: {C0DC0CC7-B715-4244-BC9B-465FBC6459A7}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\Registry\RegIdleBackup
+Dynamicinfo  	: {CA4B8FF2-A4D2-4D88-A52E-3A5BDAF7F56E}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\RemoteAssistance\RemoteAssistanceTask
+Dynamicinfo  	: {CB3D64BF-C0C9-45FF-BFB0-FF1A8F680186}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\MemoryDiagnostic\CorruptionDetector
+Dynamicinfo  	: {CEE64558-E1A7-4D9D-80A7-2001912BE5B5}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\PeriodicScanRetry
+Dynamicinfo  	: {CF140617-00F5-4B03-A0C8-E636F2AEFE2D}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Dynamicinfo  	: {D0250F3F-6480-484F-B719-42F659AC64D5}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\OCURDiscovery
+Dynamicinfo  	: {D257B397-6D15-4253-950F-2E5B2DB1AC89}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\PBDADiscoveryW1
+Dynamicinfo  	: {D3DD1EB6-CB00-4689-AD70-BD0A2294D3C4}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Office\OfficeTelemetryAgentFallBack
+Dynamicinfo  	: {D51142F7-A993-41A8-A11B-FBBD9196663A}
+LastWrite : Wed Mar 25 14:20:09 2015 (UTC)
+Path      	: \Microsoft\Windows\Autochk\Proxy
+Dynamicinfo  	: {D7B6E81D-3CF4-432C-84D2-24213F4316E6}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\MobilePC\HotStart
+Dynamicinfo  	: {D8AEABD4-BF61-450F-8F52-43B55B7B3D58}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows\Maintenance\WinSAT
+Dynamicinfo  	: {DA41DE71-8431-42FB-9DB0-EB64A961DEAD}
+LastWrite : Tue Mar 24 15:46:10 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\RecordingRestart
+Dynamicinfo  	: {DCB22327-34C1-40DE-9B7D-685593B1A9AB}
+LastWrite : Wed Mar 25 10:18:11 2015 (UTC)
+Path      	: \Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask
+Dynamicinfo  	: {DD9F510C-95F4-499A-90C8-BAC5BC372FF4}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange
+Dynamicinfo  	: {E22A8667-F75B-4BA9-BA46-067ED4429DE8}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Bluetooth\UninstallDeviceTask
+Dynamicinfo  	: {E3163C33-301D-4730-A266-5518C5ED3967}
+LastWrite : Sun Nov 21 03:39:16 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\PvrScheduleTask
+Dynamicinfo  	: {E4816867-3C7D-41BD-9785-3E016E70DED1}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\RAC\RacTask
+Dynamicinfo  	: {EACA24FF-236C-401D-A1E7-B3D5267B8A50}
+LastWrite : Sun Nov 21 03:39:16 2010 (UTC)
+Path      	: \Microsoft\Windows\MUI\LPRemove
+Dynamicinfo  	: {EB02381F-D652-4B1C-894A-712498C62C51}
+LastWrite : Sun Nov 21 03:39:15 2010 (UTC)
+Path      	: \Microsoft\Windows\Media Center\SqlLiteRecoveryTask
+Dynamicinfo  	: {EF8FBE3A-CDA9-41B3-B869-030D1D2FD38D}
+LastWrite : Wed Mar 25 10:18:14 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\UpdateRecordPath
+Dynamicinfo  	: {EFD90FCD-8466-4206-AF3C-465AFC9D4B3D}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Windows Defender\MP Scheduled Scan
+Dynamicinfo  	: {F1DDBEA7-4430-40E5-BC09-7504AC517BBC}
+LastWrite : Wed Mar 25 13:12:53 2015 (UTC)
+Path      	: \GoogleUpdateTaskMachineUA
+Dynamicinfo  	: {F43C6189-D285-445C-A811-33CB4E576AA9}
+LastWrite : Wed Mar 25 15:16:01 2015 (UTC)
+Path      	: \Microsoft\Windows\Media Center\InstallPlayReady
+Dynamicinfo  	: {F477EF0D-AF6A-4DA4-8E1C-E3D73091C174}
+LastWrite : Wed Mar 25 10:18:12 2015 (UTC)
+Path      	: \Microsoft\Office\Office 15 Subscription Heartbeat
+Dynamicinfo  	: {F9B83875-3FB7-4B48-AF42-DDA294A8F649}
+LastWrite : Wed Mar 25 13:15:48 2015 (UTC)
+Path      	: \Microsoft\Windows\MemoryDiagnostic\DecompressionFailureDetector
+Dynamicinfo  	: {FA2BC0A6-8D4B-458A-85C8-2B8C72487513}
+LastWrite : Sun Nov 21 03:39:16 2010 (UTC)
+Path      	: \Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem
+Dynamicinfo  	: {FB3C354D-297A-4EB2-9B58-090F6361906B}
+LastWrite : Sun Nov 21 03:39:16 2010 (UTC)
+Path      	: \Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask
+Dynamicinfo  	: {FDD56C73-F0D5-41B6-B767-6EFFD7966428}
+LastWrite : Sun Nov 21 03:39:16 2010 (UTC)
+...........................................................................................................
+.
+ctrlpnl v.20100116
+(Software) Get Control Panel info from Software hive
+
+
+Microsoft\Windows\CurrentVersion\Control Panel
+
+Cpls key
+mlcfg32.cpl C:\PROGRA~1\MICROS~2\Office15\MLCFG32.CPL         
+
+don't load key
+hdwwiz.cpl
+telephon.cpl
+appwiz.cpl
+ncpa.cpl
+sysdm.cpl
+desk.cpl
+inetcpl.cpl
+joy.cpl
+mmsys.cpl
+Firewall.cpl
+powercfg.cpl
+intl.cpl
+timedate.cpl
+main.cpl
+collab.cpl
+irprops.cpl
+tabletpc.cpl
+infocardcpl.cpl
+bthprops.cpl
+
+System.ControlPanel.Category [Tue Jul 14 04:53:25 2009 UTC]
+Category -1,4
+  %SystemRoot%\System32\Speech\SpeechUX\sapi.cpl
+
+{305CA226-D286-468E-B848-2B2E8E697B74} 2 [Sun Mar 22 15:03:50 2015 UTC]
+Category 9
+  C:\Program Files\Microsoft Office\Office15\MLCFG32.CPL
+
+
+...........................................................................................................
+.
+banner v.20081119
+(Software) Get HKLM\SOFTWARE.. Logon Banner Values
+
+Logon Banner Information
+Microsoft\Windows\CurrentVersion\policies\system
+LastWrite Time Tue Jul 14 05:01:33 2009 (UTC)
+
+Legalnoticecaption value = 
+
+Legalnoticetext value =  
+
+Microsoft\Windows NT\CurrentVersion\Winlogon
+LastWrite Time Wed Mar 25 13:05:43 2015 (UTC)
+
+Legalnoticecaption value = 
+
+Legalnoticetext value = 
+
+...........................................................................................................
+.
+nolmhash v.20100712
+(System) Gets NoLMHash value
+
+ControlSet001\Control\Lsa
+LastWrite: Wed Mar 25 13:05:41 2015
+
+NoLMHash value = 1
+
+A value of 1 indicates that LMHashes are not stored in the SAM.
+...........................................................................................................
+.

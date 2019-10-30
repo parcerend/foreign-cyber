@@ -1,0 +1,90 @@
+=========================================================================================================
+Web Browsing Information
+=========================================================================================================
+
+defbrowser v.20091116
+(Software) Gets default browser setting from HKLM
+
+Default Browser Check #1
+Clients\StartMenuInternet
+LastWrite Time Sun Mar 22 15:11:52 2015 (UTC)
+
+Default Browser : IEXPLORE.EXE
+
+Default Browser Check #2
+Classes\HTTP\shell\open\command
+LastWrite Time Sun Mar 22 15:23:38 2015 (UTC)
+
+Default Browser = "C:\Program Files\Internet Explorer\iexplore.exe" %1
+...........................................................................................................
+.
+startmenuinternetapps_lm v.20101219
+(SOFTWARE) Start Menu Internet Applications info
+
+Start Menu Internet Applications
+
+
+ [Sun Mar 22 15:03:50 2015 (UTC)] Calendar
+ VALUE: (default) -> Microsoft Outlook
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft Outlook
+
+
+ [Sun Mar 22 15:03:50 2015 (UTC)] Contacts
+ VALUE: (default) -> Microsoft Outlook
+ SUBKEY:  [Tue Jul 14 04:55:00 2009 (UTC)] Address Book
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft Outlook
+
+
+ [Sun Mar 22 15:03:50 2015 (UTC)] EnvelopeHost
+ VALUE: no values.
+ SUBKEY:  [Sun Mar 22 15:03:49 2015 (UTC)] Microsoft Excel
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft Word
+
+
+ [Sun Mar 22 15:19:29 2015 (UTC)] Mail
+ VALUE: (default) -> Microsoft Outlook
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft Outlook
+ SUBKEY:  [Tue Jul 14 04:55:00 2009 (UTC)] Windows Mail
+
+
+ [Sun Nov 21 07:16:59 2010 (UTC)] Media
+ VALUE: no values.
+ SUBKEY:  [Sun Nov 21 07:16:59 2010 (UTC)] Windows Media Center
+ SUBKEY:  [Tue Jul 14 04:55:00 2009 (UTC)] Windows Media Player
+
+
+ [Sun Mar 22 15:03:50 2015 (UTC)] Presentation
+ VALUE: no values.
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft PowerPoint
+
+
+ [Sun Mar 22 15:03:49 2015 (UTC)] Spreadsheet
+ VALUE: no values.
+ SUBKEY:  [Sun Mar 22 15:03:49 2015 (UTC)] Microsoft Excel
+
+
+ [Sun Mar 22 15:11:52 2015 (UTC)] StartMenuInternet
+ VALUE: (default) -> IEXPLORE.EXE
+ SUBKEY:  [Sun Mar 22 15:11:52 2015 (UTC)] Google Chrome
+ SUBKEY:  [Sun Mar 22 15:19:29 2015 (UTC)] IEXPLORE.EXE
+
+
+ [Sun Mar 22 15:03:50 2015 (UTC)] Word processing
+ VALUE: no values.
+ SUBKEY:  [Sun Mar 22 15:03:50 2015 (UTC)] Microsoft Word
+...........................................................................................................
+.
+++++++++++ Internet Explorer Related ++++++++++
++
+ie_version v.20091016
+(Software) Get IE version and build
+
+Microsoft\Internet Explorer
+LastWrite Time Sun Mar 22 15:19:29 2015 (UTC)
+
+IE Build   = 99600
+IE Version = 9.11.9600.17691
+...........................................................................................................
+.
+...........................................................................................................
+.

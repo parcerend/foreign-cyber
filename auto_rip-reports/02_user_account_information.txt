@@ -1,0 +1,215 @@
+=========================================================================================================
+User Account Information
+=========================================================================================================
+
+samparse v.20110901
+(SAM) Parse SAM file for user/group mbrshp info
+
+
+User Information
+-------------------------
+Username        : Administrator [500]
+Full Name       : 
+User Comment    : Built-in account for administering the computer/domain
+Account Type    : Default Admin User
+Account Created : Wed Mar 25 10:33:22 2015 Z
+Last Login Date : Sun Nov 21 03:47:20 2010 Z
+Pwd Reset Date  : Sun Nov 21 03:57:24 2010 Z
+Pwd Fail Date   : Never
+Login Count     : 6
+  --> Password does not expire
+  --> Account Disabled
+  --> Normal user account
+
+Username        : Guest [501]
+Full Name       : 
+User Comment    : Built-in account for guest access to the computer/domain
+Account Type    : Default Guest Acct
+Account Created : Wed Mar 25 10:33:22 2015 Z
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Account Disabled
+  --> Password not required
+  --> Normal user account
+
+Username        : informant [1000]
+Full Name       : 
+User Comment    : 
+Account Type    : Default Admin User
+Account Created : Sun Mar 22 14:33:54 2015 Z
+Password Hint   : IAMAN
+Last Login Date : Wed Mar 25 14:45:59 2015 Z
+Pwd Reset Date  : Sun Mar 22 14:33:54 2015 Z
+Pwd Fail Date   : Wed Mar 25 14:45:43 2015 Z
+Login Count     : 10
+  --> Password does not expire
+  --> Password not required
+  --> Normal user account
+
+Username        : admin11 [1001]
+Full Name       : admin11
+User Comment    : 
+Account Type    : Default Admin User
+Account Created : Sun Mar 22 15:51:54 2015 Z
+Last Login Date : Sun Mar 22 15:57:02 2015 Z
+Pwd Reset Date  : Sun Mar 22 15:52:10 2015 Z
+Pwd Fail Date   : Sun Mar 22 15:53:02 2015 Z
+Login Count     : 2
+  --> Password does not expire
+  --> Normal user account
+
+Username        : ITechTeam [1002]
+Full Name       : ITechTeam
+User Comment    : 
+Account Type    : Default Admin User
+Account Created : Sun Mar 22 15:52:30 2015 Z
+Last Login Date : Never
+Pwd Reset Date  : Sun Mar 22 15:52:45 2015 Z
+Pwd Fail Date   : Sun Mar 22 15:53:02 2015 Z
+Login Count     : 0
+  --> Password does not expire
+  --> Normal user account
+
+Username        : temporary [1003]
+Full Name       : temporary
+User Comment    : 
+Account Type    : Custom Limited Acct
+Account Created : Sun Mar 22 15:53:01 2015 Z
+Last Login Date : Sun Mar 22 15:55:57 2015 Z
+Pwd Reset Date  : Sun Mar 22 15:53:11 2015 Z
+Pwd Fail Date   : Sun Mar 22 15:56:37 2015 Z
+Login Count     : 1
+  --> Password does not expire
+  --> Normal user account
+
+-------------------------
+Group Membership Information
+-------------------------
+Group Name    : Users [5]
+LastWrite     : Sun Mar 22 15:53:01 2015 Z
+Group Comment : Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Users :
+  S-1-5-4
+  S-1-5-11
+  S-1-5-21-2425377081-3129163575-2985601102-1001
+  S-1-5-21-2425377081-3129163575-2985601102-1003
+  S-1-5-21-2425377081-3129163575-2985601102-1002
+
+Group Name    : Event Log Readers [0]
+LastWrite     : Tue Jul 14 04:45:47 2009 Z
+Group Comment : Members of this group can read event logs from local machine
+Users         : None
+
+Group Name    : Guests [1]
+LastWrite     : Wed Mar 25 10:15:19 2015 Z
+Group Comment : Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+Users :
+  S-1-5-21-2425377081-3129163575-2985601102-501
+
+Group Name    : Distributed COM Users [0]
+LastWrite     : Tue Jul 14 04:45:47 2009 Z
+Group Comment : Members are allowed to launch, activate and use Distributed COM objects on this machine.
+Users         : None
+
+Group Name    : Administrators [4]
+LastWrite     : Sun Mar 22 15:52:30 2015 Z
+Group Comment : Administrators have complete and unrestricted access to the computer/domain
+Users :
+  S-1-5-21-2425377081-3129163575-2985601102-1001
+  S-1-5-21-2425377081-3129163575-2985601102-1000
+  S-1-5-21-2425377081-3129163575-2985601102-500
+  S-1-5-21-2425377081-3129163575-2985601102-1002
+
+Group Name    : Network Configuration Operators [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Members in this group can have some administrative privileges to manage configuration of networking features
+Users         : None
+
+Group Name    : Cryptographic Operators [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Members are authorized to perform cryptographic operations.
+Users         : None
+
+Group Name    : Power Users [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Power Users are included for backwards compatibility and possess limited administrative powers
+Users         : None
+
+Group Name    : Performance Log Users [0]
+LastWrite     : Tue Jul 14 04:45:46 2009 Z
+Group Comment : Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer
+Users         : None
+
+Group Name    : Replicator [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Supports file replication in a domain
+Users         : None
+
+Group Name    : Performance Monitor Users [0]
+LastWrite     : Tue Jul 14 04:45:46 2009 Z
+Group Comment : Members of this group can access performance counter data locally and remotely
+Users         : None
+
+Group Name    : Remote Desktop Users [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Members in this group are granted the right to logon remotely
+Users         : None
+
+Group Name    : IIS_IUSRS [1]
+LastWrite     : Tue Jul 14 04:45:47 2009 Z
+Group Comment : Built-in group used by Internet Information Services.
+Users :
+  S-1-5-17
+
+Group Name    : Backup Operators [0]
+LastWrite     : Wed Mar 25 10:15:37 2015 Z
+Group Comment : Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+Users         : None
+
+Analysis Tips:
+ - For well-known SIDs, see http://support.microsoft.com/kb/243330
+     - S-1-5-4  = Interactive
+     - S-1-5-11 = Authenticated Users
+ - Correlate the user SIDs to the output of the ProfileList plugin
+
+...........................................................................................................
+.
+profilelist v.20100219
+(Software) Get content of ProfileList key
+
+Microsoft\Windows NT\CurrentVersion\ProfileList
+LastWrite Time Sun Mar 22 15:55:57 2015 (UTC)
+
+Path      : %systemroot%\system32\config\systemprofile
+SID       : S-1-5-18
+LastWrite : Tue Jul 14 04:53:25 2009 (UTC)
+
+Path      : C:\Windows\ServiceProfiles\LocalService
+SID       : S-1-5-19
+LastWrite : Wed Mar 25 11:14:18 2015 (UTC)
+
+Path      : C:\Windows\ServiceProfiles\NetworkService
+SID       : S-1-5-20
+LastWrite : Wed Mar 25 11:14:18 2015 (UTC)
+
+Path      : C:\Users\informant
+SID       : S-1-5-21-2425377081-3129163575-2985601102-1000
+LastWrite : Wed Mar 25 15:30:57 2015 (UTC)
+LoadTime  : Thu Jan  1 00:00:00 1970 (UTC)
+
+Path      : C:\Users\admin11
+SID       : S-1-5-21-2425377081-3129163575-2985601102-1001
+LastWrite : Sun Mar 22 15:57:41 2015 (UTC)
+LoadTime  : Thu Jan  1 00:00:00 1970 (UTC)
+
+Path      : C:\Users\temporary
+SID       : S-1-5-21-2425377081-3129163575-2985601102-1003
+LastWrite : Sun Mar 22 15:56:58 2015 (UTC)
+LoadTime  : Thu Jan  1 00:00:00 1970 (UTC)
+
+Domain Accounts
+...........................................................................................................
+.

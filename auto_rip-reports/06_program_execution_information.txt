@@ -1,0 +1,207 @@
+=========================================================================================================
+Program Execution Information
+=========================================================================================================
+
+...........................................................................................................
+.
+...........................................................................................................
+.
+legacy v.20090429
+(System) Lists LEGACY_ entries in Enum\Root key
+
+Wed Mar 25 13:05:47 2015 (UTC)
+	LEGACY_SRV\0000 - @%systemroot%\system32\srvsvc.dll,-102
+Wed Mar 25 13:05:46 2015 (UTC)
+	LEGACY_SRV2\0000 - @%systemroot%\system32\srvsvc.dll,-104
+	LEGACY_SRVNET\0000 - srvnet
+Wed Mar 25 13:05:45 2015 (UTC)
+	LEGACY_BOWSER\0000 - @%systemroot%\system32\browser.dll,-102
+	LEGACY_MRXSMB\0000 - @%systemroot%\system32\wkssvc.dll,-1002
+	LEGACY_MRXSMB10\0000 - @%systemroot%\system32\wkssvc.dll,-1004
+	LEGACY_MRXSMB20\0000 - @%systemroot%\system32\wkssvc.dll,-1006
+Wed Mar 25 13:05:43 2015 (UTC)
+	LEGACY_LUAFV\0000 - @%systemroot%\system32\drivers\luafv.sys,-100
+Wed Mar 25 13:05:31 2015 (UTC)
+	LEGACY_DFSC\0000 - @%systemroot%\system32\drivers\dfsc.sys,-101
+	LEGACY_MSFS\0000 - Msfs
+	LEGACY_NETBIOS\0000 - NetBIOS Interface
+	LEGACY_NPFS\0000 - Npfs
+	LEGACY_RDBSS\0000 - @%systemroot%\system32\wkssvc.dll,-1000
+Wed Mar 25 13:05:28 2015 (UTC)
+	LEGACY_FILEINFO\0000 - @%SystemRoot%\system32\drivers\fileinfo.sys,-100
+	LEGACY_FLTMGR\0000 - @%SystemRoot%\system32\drivers\fltmgr.sys,-10001
+	LEGACY_FS_REC\0000 - Fs_Rec
+	LEGACY_MUP\0000 - @%systemroot%\system32\drivers\mup.sys,-101
+	LEGACY_NTFS\0000 - Ntfs
+Wed Mar 25 13:05:22 2015 (UTC)
+	LEGACY_AFD\0000 - @%systemroot%\system32\drivers\afd.sys,-1000
+	LEGACY_BEEP\0000 - Beep
+	LEGACY_CLFS\0000 - @%SystemRoot%\system32\clfs.sys,-100
+	LEGACY_CNG\0000 - CNG
+	LEGACY_CSC\0000 - @%systemroot%\system32\cscsvc.dll,-202
+	LEGACY_DISCACHE\0000 - @%systemroot%\system32\drivers\discache.sys,-102
+	LEGACY_FVEVOL\0000 - @%SystemRoot%\system32\drivers\fvevol.sys,-100
+	LEGACY_HTTP\0000 - @%SystemRoot%\system32\drivers\http.sys,-1
+	LEGACY_HWPOLICY\0000 - @%systemroot%\system32\drivers\hwpolicy.sys,-101
+	LEGACY_KSECDD\0000 - KSecDD
+	LEGACY_KSECPKG\0000 - KSecPkg
+	LEGACY_LLTDIO\0000 - Link-Layer Topology Discovery Mapper I/O Driver
+	LEGACY_MOUNTMGR\0000 - @%SystemRoot%\system32\drivers\mountmgr.sys,-100
+	LEGACY_MPSDRV\0000 - @%SystemRoot%\system32\FirewallAPI.dll,-23092
+	LEGACY_MSISADRV\0000 - msisadrv
+	LEGACY_NDIS\0000 - @%SystemRoot%\system32\drivers\ndis.sys,-200
+	LEGACY_NDPROXY\0000 - NDProxy
+	LEGACY_NETBT\0000 - @%SystemRoot%\system32\drivers\netbt.sys,-2
+	LEGACY_NSIPROXY\0000 - @%SystemRoot%\system32\drivers\nsiproxy.sys,-2
+	LEGACY_NULL\0000 - Null
+	LEGACY_PCW\0000 - Performance Counters for Windows Driver
+	LEGACY_PEAUTH\0000 - PEAUTH
+	LEGACY_PSCHED\0000 - @%SystemRoot%\System32\drivers\pacer.sys,-101
+	LEGACY_RDPCDD\0000 - @%systemroot%\system32\DRIVERS\RDPCDD.sys,-100
+	LEGACY_RDPENCDD\0000 - @%systemroot%\system32\drivers\RDPENCDD.sys,-101
+	LEGACY_RDPREFMP\0000 - @%systemroot%\system32\drivers\RdpRefMp.sys,-101
+	LEGACY_RSPNDR\0000 - Link-Layer Topology Discovery Responder
+	LEGACY_SECDRV\0000 - Security Driver
+	LEGACY_SPLDR\0000 - Security Processor Loader Driver
+	LEGACY_STORFLT\0000 - @%SystemRoot%\system32\vmstorfltres.dll,-1000
+	LEGACY_TCPIP\0000 - @%SystemRoot%\system32\tcpipcfg.dll,-50003
+	LEGACY_TCPIPREG\0000 - TCP/IP Registry Compatibility
+	LEGACY_TDX\0000 - @%SystemRoot%\system32\tcpipcfg.dll,-50004
+	LEGACY_VGASAVE\0000 - VgaSave
+	LEGACY_VOLMGRX\0000 - @%SystemRoot%\system32\drivers\volmgrx.sys,-100
+	LEGACY_VOLSNAP\0000 - Storage volumes
+	LEGACY_WANARPV6\0000 - @%systemroot%\system32\rascfg.dll,-32012
+	LEGACY_WDF01000\0000 - Kernel Mode Driver Frameworks service
+	LEGACY_WFPLWF\0000 - WFP Lightweight Filter
+Wed Mar 25 10:18:52 2015 (UTC)
+	LEGACY_VOLSNAP
+Wed Mar 25 10:15:52 2015 (UTC)
+	LEGACY_SRV
+	LEGACY_SRV2
+	LEGACY_SRVNET
+	LEGACY_TCPIPREG
+Wed Mar 25 10:15:51 2015 (UTC)
+	LEGACY_MRXSMB10
+	LEGACY_MRXSMB20
+	LEGACY_PEAUTH
+	LEGACY_SECDRV
+Wed Mar 25 10:15:50 2015 (UTC)
+	LEGACY_BOWSER
+	LEGACY_HTTP
+	LEGACY_MPSDRV
+	LEGACY_MRXSMB
+Wed Mar 25 10:15:49 2015 (UTC)
+	LEGACY_LLTDIO
+	LEGACY_RSPNDR
+Wed Mar 25 10:15:46 2015 (UTC)
+	LEGACY_COMPBATT
+	LEGACY_HPSAMD
+	LEGACY_ISAPNP
+	LEGACY_LSI_SCSI
+	LEGACY_LUAFV
+	LEGACY_MEGASR
+	LEGACY_NVRAID
+	LEGACY_PCIIDE
+	LEGACY_SBP2PORT
+	LEGACY_VMBUS
+	LEGACY_WD
+Wed Mar 25 10:15:45 2015 (UTC)
+	LEGACY_ADP94XX
+	LEGACY_ADPAHCI
+	LEGACY_ADPU320
+	LEGACY_ALIIDE
+	LEGACY_AMDIDE
+	LEGACY_AMDSATA
+	LEGACY_AMDSBS
+	LEGACY_ARC
+	LEGACY_ARCSAS
+	LEGACY_CMDIDE
+	LEGACY_ELXSTOR
+	LEGACY_IASTORV
+	LEGACY_IIRSP
+	LEGACY_LSI_FC
+	LEGACY_LSI_SAS2
+	LEGACY_MEGASAS
+	LEGACY_MSDSM
+	LEGACY_NFRD960
+	LEGACY_NVSTOR
+	LEGACY_QL2300
+	LEGACY_QL40XX
+	LEGACY_SISRAID2
+	LEGACY_SISRAID4
+	LEGACY_STEXSTOR
+	LEGACY_STORVSC
+	LEGACY_VIAIDE
+	LEGACY_VSMRAID
+Wed Mar 25 10:15:18 2015 (UTC)
+	LEGACY_UDFS
+Wed Mar 25 10:15:17 2015 (UTC)
+	LEGACY_NDPROXY
+Wed Mar 25 10:15:16 2015 (UTC)
+	LEGACY_AFD
+	LEGACY_CSC
+	LEGACY_DFSC
+	LEGACY_DISCACHE
+	LEGACY_MSFS
+	LEGACY_NETBIOS
+	LEGACY_NETBT
+	LEGACY_NPFS
+	LEGACY_NSIPROXY
+	LEGACY_PSCHED
+	LEGACY_RDBSS
+	LEGACY_RDPENCDD
+	LEGACY_RDPREFMP
+	LEGACY_TDX
+	LEGACY_WANARPV6
+	LEGACY_WFPLWF
+Wed Mar 25 10:15:15 2015 (UTC)
+	LEGACY_BEEP
+	LEGACY_NULL
+	LEGACY_RDPCDD
+	LEGACY_VGASAVE
+Wed Mar 25 10:15:11 2015 (UTC)
+	LEGACY_CLFS
+	LEGACY_CNG
+	LEGACY_FILEINFO
+	LEGACY_FLTMGR
+	LEGACY_FS_REC
+	LEGACY_FVEVOL
+	LEGACY_HWPOLICY
+	LEGACY_KSECDD
+	LEGACY_KSECPKG
+	LEGACY_MUP
+	LEGACY_NDIS
+	LEGACY_NTFS
+	LEGACY_PCW
+	LEGACY_SPLDR
+	LEGACY_STORFLT
+	LEGACY_TCPIP
+Wed Mar 25 10:14:58 2015 (UTC)
+	LEGACY_MOUNTMGR
+	LEGACY_VOLMGRX
+Wed Mar 25 10:14:56 2015 (UTC)
+	LEGACY_MSISADRV
+Wed Mar 25 10:14:55 2015 (UTC)
+	LEGACY_WDF01000
+Tue Mar 24 19:49:29 2015 (UTC)
+	LEGACY_UDFS\0000 - udfs
+Tue Mar 24 19:40:34 2015 (UTC)
+	LEGACY_CDFS
+	LEGACY_CDFS\0000 - CD/DVD File System Reader
+Tue Mar 24 13:58:34 2015 (UTC)
+	LEGACY_FASTFAT
+	LEGACY_FASTFAT\0000 - FAT12/16/32 File System Driver
+Tue Mar 24 13:38:00 2015 (UTC)
+	LEGACY_EXFAT\0000 - exFAT File System Driver
+Mon Mar 23 18:31:12 2015 (UTC)
+	LEGACY_EXFAT
+Sun Nov 21 02:41:52 2010 (UTC)
+	LEGACY_MSAHCI
+Tue Jul 14 05:13:47 2009 (UTC)
+	LEGACY_NDISTAPI
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.

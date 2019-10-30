@@ -1,0 +1,157 @@
+=========================================================================================================
+Storage Information
+=========================================================================================================
+
+
+MountedDevices
+LastWrite time = Tue Mar 24 13:58:34 2015Z
+
+\DosDevices\C:
+	Drive Signature = 20 57 26 f0 
+\??\Volume{c9a1c040-d2d7-11e4-9dae-806e6f6e6963}
+	Drive Signature = 20 57 26 f0 
+\??\Volume{c9a1c041-d2d7-11e4-9dae-806e6f6e6963}
+	Drive Signature = 20 57 26 f0 
+\??\Volume{662626a6-d181-11e4-9591-000c29ff2429}
+	Drive Signature = d8 03 21 e2 
+\DosDevices\E:
+	Drive Signature = 4c 03 21 e2 
+\??\Volume{a2f2048e-d228-11e4-b630-000c29ff2429}
+	Drive Signature = 4c 03 21 e2 
+
+Device: \??\IDE#CdRomNECVMWar_VMware_SATA_CD01_______________1.00____#6&373888b8&0&1.0.0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+	\??\Volume{c9a1c044-d2d7-11e4-9dae-806e6f6e6963}
+	\DosDevices\D:
+
+Device: \??\FDC#GENERIC_FLOPPY_DRIVE#6&3b4c39bd&0&0#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+	\??\Volume{c9a1c045-d2d7-11e4-9dae-806e6f6e6963}
+	\DosDevices\A:
+
+...........................................................................................................
+.
+ide v.20080418
+(System) Get IDE device info from the System hive file
+
+IDE
+ControlSet001\Enum\IDE
+LastWrite Time Wed Mar 25 10:15:11 2015 (UTC)
+
+CdRomHL-DT-ST_DVD-ROM_GDR-T10N_______________1.05____ [Sun Nov 21 03:57:50 2010]
+
+CdRomNECVMWar_VMware_SATA_CD01_______________1.00____ [Wed Mar 25 10:15:11 2015]
+6&373888b8&0&1.0.0 [Wed Mar 25 13:05:28 2015 (UTC)]
+FriendlyName : NECVMWar VMware SATA CD01 ATA Device
+
+DevClasses - Disks
+ControlSet001\Control\DeviceClasses\{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+No IDE subkeys were found.
+...........................................................................................................
+.
+usbdevices v.20100219
+(System) Parses Enum\USB key for devices
+
+
+@usbport.inf,%usb\root_hub.devicedesc%;USB Root Hub [ROOT_HUB\5&3bb57b&0]
+  Class               : USB
+  Service             : usbhub
+  Mfg                 : @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+
+@usbport.inf,%usb\root_hub20.devicedesc%;USB Root Hub [ROOT_HUB20\5&299e1c9f&0]
+  Class               : USB
+  Service             : usbhub
+  Mfg                 : @usbport.inf,%generic.mfg%;(Standard USB Host Controller)
+
+@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device [VID_0781&PID_5571\4C530012450531101593]
+  Class               : USB
+  Service             : USBSTOR
+  Location Information: Port_#0001.Hub_#0002
+  Mfg                 : @usbstor.inf,%generic.mfg%;Compatible USB storage device
+
+@usbstor.inf,%genericbulkonly.devicedesc%;USB Mass Storage Device [VID_0781&PID_5571\4C530012550531106501]
+  Class               : USB
+  Service             : USBSTOR
+  Location Information: Port_#0001.Hub_#0002
+  Mfg                 : @usbstor.inf,%generic.mfg%;Compatible USB storage device
+
+@usb.inf,%usb\class_09.devicedesc%;Generic USB Hub [VID_0E0F&PID_0002\6&b77da92&0&2]
+  Class               : USB
+  Service             : usbhub
+  Location Information: Port_#0002.Hub_#0001
+  Mfg                 : @usb.inf,%generichub.mfg%;(Generic USB Hub)
+
+@usb.inf,%usb\composite.devicedesc%;USB Composite Device [VID_0E0F&PID_0003\6&b77da92&0&1]
+  Class               : USB
+  Service             : usbccgp
+  Location Information: Port_#0001.Hub_#0001
+  Mfg                 : @usb.inf,%generic.mfg%;(Standard USB Host Controller)
+
+@input.inf,%hid.devicedesc%;USB Input Device [VID_0E0F&PID_0003&MI_00\7&2a7d3009&0&0000]
+  Class               : HIDClass
+  Service             : HidUsb
+  Location Information: 0002.0000.0000.001.000.000.000.000.000
+  Mfg                 : @input.inf,%stdmfg%;(Standard system devices)
+
+@input.inf,%hid.devicedesc%;USB Input Device [VID_0E0F&PID_0003&MI_01\7&2a7d3009&0&0001]
+  Class               : HIDClass
+  Service             : HidUsb
+  Location Information: 0002.0000.0000.001.000.000.000.000.000
+  Mfg                 : @input.inf,%stdmfg%;(Standard system devices)
+...........................................................................................................
+.
+usbstor v.20080418
+(System) Get USBStor key info
+
+USBStor
+ControlSet001\Enum\USBStor
+
+Disk&Ven_SanDisk&Prod_Cruzer_Fit&Rev_2.01 [Tue Mar 24 13:58:32 2015]
+  S/N: 4C530012450531101593&0 [Tue Mar 24 13:38:00 2015]
+    FriendlyName  : SanDisk Cruzer Fit USB Device
+  S/N: 4C530012550531106501&0 [Tue Mar 24 13:58:33 2015]
+    FriendlyName  : SanDisk Cruzer Fit USB Device
+
+...........................................................................................................
+.
+devclass v.20100901
+(System) Get USB device info from the DeviceClasses keys in the System hive
+
+DevClasses - Disks
+ControlSet001\Control\DeviceClasses\{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+
+Tue Mar 24 13:58:33 2015 (UTC)
+	Disk&Ven_SanDisk&Prod_Cruzer_Fit&Rev_2.01,4C530012550531106501&0
+Tue Mar 24 13:38:00 2015 (UTC)
+	Disk&Ven_SanDisk&Prod_Cruzer_Fit&Rev_2.01,4C530012450531101593&0
+
+DevClasses - Volumes
+ControlSet001\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+...........................................................................................................
+.
+imagedev v.20080730
+(System)  -- 
+
+imagedev
+ControlSet001\Control\Class\{6BDD1FC6-810F-11D0-BEC7-08002BE2092F}
+
+Still Image Capture Devices
+...........................................................................................................
+.
+stillimage v.20100222
+(System) Get info on StillImage devices
+
+
+
+StillImage Logging Level
+  STICLI Logging Level = 0x4
+  STIMON Logging Level = 0x4
+...........................................................................................................
+.
